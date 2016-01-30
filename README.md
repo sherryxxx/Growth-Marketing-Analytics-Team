@@ -1,6 +1,7 @@
 #### Growth-Marketing-Analytics-Team
 
-###### Members: Lisa Burgess, Jerry Shen, Sherry Xia, Lisa Guo, Daisy Deng, and Sophine Zheng
+###### Members: 
+Lisa Burgess, Jerry Shen, Sherry Xia, Lisa Guo, Daisy Deng, and Sophine Zheng
 
 Queries and important analytics scripts will be saved here for the use of the **Growth Marketing Analytics Team**.
 
