@@ -1,4 +1,4 @@
-#### Growth-Marketing-Analytics-Team
+### Growth-Marketing-Analytics-Team
 
 ###### Members: Lisa Burgess, Jerry Shen, Sherry Xia, Lisa Guo, Daisy Deng, and Sophine Zheng
 
@@ -11,5 +11,5 @@ These items include: (*Still in Progress...*)
 - First Trip Prediction Model
 - Cost Curve Predicton Model 
 
-## Contact Us 
+### Contact Us 
 If you have any questions please reach out to us at *marketing-analytics@uber.com*
